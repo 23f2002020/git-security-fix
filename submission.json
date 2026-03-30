@@ -2,8 +2,7 @@
   "prompt": "A highly detailed, photorealistic scene of a worn metal key that has been excessively filed and reshaped into an irregular, jagged form. The key is inserted into an old, scratched lock and fits perfectly. In the background, slightly out of focus, are several new, identical locks where the same key clearly does not fit. Natural lighting, shallow depth of field, cinematic composition, realistic textures, no text, no symbols, no diagrams, no labels. Focus on the unnatural shape of the key compared to standard keys. The environment should feel real, like a locksmith’s workspace or a wooden door. --no text, watermark, diagrams, annotations, glowing effects, futuristic elements",
   "model": "DALL·E 3",
   "concept": "overfitting",
-  "metaphor": "An irregular, over-filed key fits one worn lock perfectly but fails on identical locks, representing memorizing specific imperfections instead of general structure.",
   "tradition_name": "Realism",
   "tradition_period": "19th century",
-  "tradition_approach": "Photorealistic depiction of everyday objects with attention to material detail and natural lighting"
+  "tradition_approach": "Photorealistic depiction of everyday objects with natural lighting and material accuracy"
 }
