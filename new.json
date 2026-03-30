@@ -1,0 +1,6 @@
+{
+  "prompt": "your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters",
+  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
+  "paradox": "name of the paradox you chose",
+  "visual_logic": "max 40 words: what does the viewer see, and how does that visual structure map to the paradox's essence?"
+}
